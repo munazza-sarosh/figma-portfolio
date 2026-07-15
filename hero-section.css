@@ -1,0 +1,26 @@
+.hero-section{
+    display: flex;
+    flex-direction: row;
+    width: 864px;
+    height: 352;
+    background-color: rgb(179, 103, 103);
+    margin-inline:auto ;
+}
+p{
+    width: 497px;
+    height: 66px;
+    text-align: left;
+    margin-bottom: 45px;
+}
+img{
+    margin-left: 106px;
+}
+button{
+    width: 208px;
+    height: 47px;
+    color: white;
+    background-color: #FF6464;
+    border-radius: 2px;
+    border: none;
+    cursor: pointer;
+}
