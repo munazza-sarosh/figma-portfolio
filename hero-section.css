@@ -2,8 +2,8 @@
     display: flex;
     flex-direction: row;
     width: 864px;
-    height: 352;
-    background-color: rgb(179, 103, 103);
+    height: 352px;
+    /* background-color: rgb(179, 103, 103); */
     margin-inline:auto ;
 }
 p{
