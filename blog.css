@@ -1,0 +1,94 @@
+body{
+    height: 1261px;
+}
+nav {
+    display: flex;
+    justify-content: end;
+    height: 146px;
+    width: 100%;
+    margin-inline: auto;
+}
+
+nav a {
+    padding-left: 14px;
+    padding-right: 34px;
+    height: 40px;
+    margin-top: 34px;
+    font-family: "Heebo", sans-serif;
+    font-optical-sizing: auto;
+    font-size: 20px;
+    color: #000000;
+    text-transform: capitalize;
+}
+
+.blog {
+    text-transform: capitalize;
+    width: 1152px;
+    /* height: 100%; */
+    margin: auto;
+    font-family: "Heebo", sans-serif;
+    color: #21243D;
+
+
+}
+
+.container-blog {
+    display: flex;
+    justify-self: center;
+    flex-direction: column;
+    /* margin-top: 154px; */
+    width: 815px;
+    height: 975px;
+}
+
+h1 {
+    margin-bottom: 55px;
+    font-weight: bold;
+    font-family: "Heebo", sans-serif;
+
+}
+
+.card-2 {
+    padding: 10px;
+}
+
+.card-2 p {
+    padding: 10px;
+}
+
+.info span:last-child {
+    color: #8695A4;
+    font-size: 20px;
+}
+
+.info {
+    color: #21243D;
+}
+
+footer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+    padding: 30px 0;
+    background-color: rgb(255, 255, 255);
+}
+
+.logo {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+
+.logo img {
+    width: 20px;
+    height: 20px;
+    cursor: pointer;
+}
+
+footer p {
+    text-align: center;
+    font-size: 15px;
+    color: gray;
+}

@@ -20,6 +20,18 @@ a:link {
   text-decoration: none;
 }
 
+a:hover {
+  color: blue;
+}
+
+a:active {
+  color: #21243D;
+}
+/* a:visited {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+} */
 nav a {
   padding-left: 14px;
   padding-right: 34px;
@@ -53,7 +65,8 @@ footer {
   height: 20px;
   cursor: pointer;
 }
-footer p{
+
+footer p {
   text-align: center;
   font-size: 15px;
   color: gray;

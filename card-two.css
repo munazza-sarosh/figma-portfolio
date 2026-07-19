@@ -26,6 +26,7 @@
 .card-section-two img {
     width: 246px;
     height: 180px;
+    padding: 0;
     border-radius: 6px;
     object-fit: cover;
 }
@@ -35,7 +36,8 @@
 .content h2 {
     font-size: 30px;
     font-weight: 700;
-    margin-bottom: 18px;
+    margin-top:0;
+    /* margin-bottom: 18px; */
 }
 .info-two {
     display: flex;
